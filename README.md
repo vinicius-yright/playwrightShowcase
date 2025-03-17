@@ -1,0 +1,1 @@
+These tests were developed with the help of this udemy course https://www.udemy.com/course/playwright-zombie/, and all the tests are referencing a locally hosted website provided by the mentioned course.
